@@ -69,3 +69,4 @@ BEGIN
     WHERE o.orderId = ma_don;
 END //
 DELIMITER ;
+-- Version 1.1: verified constraints and indexes
